@@ -1,0 +1,6 @@
+{
+    "name": "org.bunny83.simple-json",
+    "version": "1.0.0",
+    "displayName": "SimpleJSON",
+    "description": "A simple JSON serialization utility"
+}
